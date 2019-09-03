@@ -31,7 +31,7 @@ class Footer extends Component {
             <Icon link={'https://github.com/mtruon'} icon={['fab', 'github']} size={iconSize}/>
             <Icon link={'mailto:mtruon02@uoguelph.ca'} icon={'envelope'} size={iconSize}/>
           </div>
-          <p>© 2018 Michael Truong</p>
+          <p>© 2019 Michael Truong</p>
       </FooterWrapper>
     );
   }
