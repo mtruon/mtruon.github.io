@@ -37,7 +37,8 @@ class Intro extends Component {
             <h2>Hi,</h2>
             <p>
               I'm a fourth year computer science student from the University of Guelph.
-              Currently, I am finishing my degree and learning new things. <span role='img' aria-label='Me working'>👨🏾‍💻🌧</span>
+              I'm a recent computer science graduate from the University of Guelph. 
+              Currently, I am working on exciting projects to develop my understanding in backend architecture, system design, data pipelines, and more. <span role='img' aria-label='Me working'>👨🏾‍💻🌧</span>
             </p>
           </TextWrapper>
         </div>
